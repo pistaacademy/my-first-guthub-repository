@@ -1,0 +1,1 @@
+this new file created in remote repository for checking 3-way merging
