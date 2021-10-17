@@ -1,2 +1,4 @@
-this file created for testing pull command
+This line was replace in feature-2 branch
 this update is for checking 3-way merge
+
+This line was added in feature-2 branch
