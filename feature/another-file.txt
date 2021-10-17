@@ -4,3 +4,5 @@ this update is for checking 3-way merge
 This line was added in feature-2 branch
 
 another update for feature-2 branch
+
+new update for git show-ref
